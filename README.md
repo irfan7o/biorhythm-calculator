@@ -1,6 +1,6 @@
 # Biorhythm Calculator
 
-This is the result of my [Ionic](https://ionicframework.com) course in Udemy by [Mirko Nasato](https://www.udemy.com/user/mirkonasato/)
+This is the 1st result of my [Ionic](https://ionicframework.com) course in Udemy by [Mirko Nasato](https://www.udemy.com/user/mirkonasato/)
 
 How to run?
  * Open the project
